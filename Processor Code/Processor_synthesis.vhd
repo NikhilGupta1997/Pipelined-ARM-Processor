@@ -1,0 +1,34 @@
+--------------------------------------------------------------------------------
+-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--------------------------------------------------------------------------------
+--   ____  ____
+--  /   /\/   /
+-- /___/  \  /    Vendor: Xilinx
+-- \   \   \/     Version: O.40d
+--  \   \         Application: netgen
+--  /   /         Filename: .vhd
+-- /___/   /\     Timestamp: Wed Mar 16 11:24:28 2016
+-- \   \  /  \ 
+--  \___\/\___\
+--             
+-- Command	: -intstyle ise -ar Structure -tm Processor -w -dir netgen/synthesis -ofmt vhdl -sim Processor.ngc Processor_synthesis.vhd 
+-- Device	: xc6slx45-3-csg324
+-- Input file	: Processor.ngc
+-- Output file	: C:\Users\HP\Desktop\Assignment 3\Compute_Architecture3\netgen\synthesis\Processor_synthesis.vhd
+-- # of Entities	: 1
+-- Design Name	: Processor
+-- Xilinx	: C:\Xilinx\13.1\ISE_DS\ISE\
+--             
+-- Purpose:    
+--     This VHDL netlist is a verification model and uses simulation 
+--     primitives which may not represent the true implementation of the 
+--     device, however the netlist is functionally correct and should not 
+--     be modified. This file cannot be synthesized and should only be used 
+--     with supported simulation tools.
+--             
+-- Reference:  
+--     Command Line Tools User Guide, Chapter 23
+--     Synthesis and Simulation Design Guide, Chapter 6
+--             
+--------------------------------------------------------------------------------
+
